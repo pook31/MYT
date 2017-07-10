@@ -1,0 +1,35 @@
+body {
+  font-family: Helvetica;
+}
+
+p {
+  color: darkgray;
+}
+
+.heading {
+  text-align: right;
+
+}
+.mother.container {
+ height: 160px;
+ width: 420px;
+ padding: relative;
+ border: 30px;
+ margin: 10 10;
+}
+
+.mother h2 {
+  font-family: roman;
+  font-size: 30px;
+  color: white;
+ background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
+}
+
+.subarticle.container {
+  height: 60px;
+  width: 20px;
+  display: flex;
+}
+ h3 {
+   font-color: darkgrey;
+ }
